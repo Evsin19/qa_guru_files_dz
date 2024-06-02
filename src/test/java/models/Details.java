@@ -2,7 +2,6 @@ package models;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-import java.util.List;
 
 public class Details {
     @JsonProperty("Teacher")
