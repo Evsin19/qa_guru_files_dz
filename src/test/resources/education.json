@@ -1,0 +1,13 @@
+{
+  "Course": "QA_Guru",
+  "ID": 234234,
+  "Details": {
+    "Teacher": "Дмитрий Тучс",
+    "Speciality": "AQA",
+    "Lectures": [
+      "Junit 5",
+      "Java",
+      "Files"
+      ]
+  }
+}
